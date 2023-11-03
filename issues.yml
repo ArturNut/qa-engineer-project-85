@@ -1,8 +1,9 @@
 ---
 issues:
-  - url: "My issues"
-  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1645"
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1647" # My bug report
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1646" # My bug report
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1647"
   - url: "https://github.com/hexlet-codebattle/codebattle/issues/1541"
   - url: "https://github.com/hexlet-codebattle/codebattle/issues/1632"
   - url: "https://github.com/hexlet-codebattle/codebattle/issues/1616"
-  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1611"   
+  - url: "https://github.com/hexlet-codebattle/codebattle/issues/1611"
