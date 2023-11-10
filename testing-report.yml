@@ -25,34 +25,30 @@
     Успешная авторизация на сайте с помощью Discord
   status: pass
 
-  - summary: |
+- summary: |
     Успешное создание турнира
   status: pass
 
-  - summary: |
+- summary: |
     Успешное создание игры с другом
   status: pass
 
-    - summary: |
+- summary: |
    Успешная отправка сообщения в общий чат
   status: pass
   
-    - summary: |
+- summary: |
    Успешная отправка приватного сообщения пользователю в сети
   status: pass
 
-  - summary: |
-   Успешная отправка приватного сообщения пользователю в сети
-  status: pass
-
-  - summary: |
+- summary: |
    Успешный набор кода в окне редактора
   status: pass
   
-  - summary: |
+- summary: |
    Успешный сброс кода в окне редактора
   status: pass
   
-  - summary: |
+- summary: |
    Успешная проверка решения
   status: pass  
