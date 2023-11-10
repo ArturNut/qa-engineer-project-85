@@ -195,6 +195,7 @@
   prerequisites:   
     создана игра с задачей rect_area  
     открыта страница игры
+    выбран язык Node.js
   test-data: |
     код: const solution = (width, length) => {
            return width * length;
@@ -204,4 +205,4 @@
     - Нажимаем кнопку Run
     - Нажимаем на вкладку OUTPUT
   expected-result: |
-     Успешная проверка решения, сообщение 'Yay! All tests passed!!'
+    Проверка успешно пройдена
